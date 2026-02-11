@@ -1,0 +1,27 @@
+{
+    "merchant_name": "IKEA Food Place",
+    "merchant_address": "Ikea Food Fast, 89090, Food Ave, Food City, KS, 89989",
+    "transaction_date": "2019-11-01",
+    "transaction_time": "18:11",
+    "total_amount": 32.1,
+    "currency": "USD",
+    "invoice_number": "409751125811",
+    "tax_amount": 4.18,
+    "line_items": [
+        {
+            "item_name": "Cheese Burger",
+            "item_quantity": 4,
+            "item_price": 5.99
+        },
+        {
+            "item_name": "Soda",
+            "item_quantity": 4,
+            "item_price": 0.49
+        },
+        {
+            "item_name": "Cinnamon Bun",
+            "item_quantity": 2,
+            "item_price": 1.0
+        }
+    ]
+}
